@@ -1,9 +1,4 @@
-__pycache__/
-.venv/
-.env
 
-templates/
-Cancer_Cell_detection_using_DL_(Brain_Tumour).ipynb
 # Logs
 logs
 *.log
