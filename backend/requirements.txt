@@ -1,0 +1,19 @@
+# Backend Framework
+Flask==3.0.2
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# Core Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
+
+# Data & Image Processing
+numpy==1.26.4
+Pillow==10.2.0
+
+# Model Loading & Management
+h5py==3.10.0
+
+# Optional Utilities
+python-dotenv==1.0.1
+requests==2.31.0
